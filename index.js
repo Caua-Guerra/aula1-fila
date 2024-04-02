@@ -1,4 +1,4 @@
-import { criarFila, inserirItem, removerItem } from "./funcoes.js";
+import { criarFila, inserirItem, removerItem, verTamanhoFila  } from "./funcoes.js";
 
 let fila = criarFila()
 console.log(fila);
