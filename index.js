@@ -28,3 +28,5 @@ removerItem(fila)
 console.log(fila);
 
 verTamanhoFila(fila)
+
+esvaziarFila(fila)
