@@ -26,3 +26,5 @@ removerItem(fila)
 console.log(fila);
 removerItem(fila)
 console.log(fila);
+
+verTamanhoFila(fila)
